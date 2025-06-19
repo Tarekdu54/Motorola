@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "tarekhassib",
+			"path": "../../Users/USER/Desktop/WEB/tarekhassib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "www"
+	}
+}
